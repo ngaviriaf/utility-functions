@@ -1,6 +1,6 @@
 A collection of utility functions
 
-#Examples
+# Examples
 
 ```
 cool([3]);
